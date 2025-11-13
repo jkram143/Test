@@ -1,0 +1,1 @@
+pip install bip-utils cryptography eth-utils
