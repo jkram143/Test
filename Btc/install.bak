@@ -1,0 +1,3 @@
+pip install bip-utils
+
+python generate_btc_address.py

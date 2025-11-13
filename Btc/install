@@ -1,0 +1,8 @@
+
+pkg update && pkg upgrade -y
+pkg install python-y
+pip install pyfiglet
+pip install bip-utils solana base58
+pip install bip-utils
+
+python generate_btc_address.py
